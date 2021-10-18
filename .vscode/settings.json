@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "EjerciciosComplementariosLevel1/operaciones/src",
+        "EjerciciosComplementariosLevel1/SumaSucesiva/src",
+        "EjerciciosComplementariosLevel1/SumaS/src",
+        "EjerciciosComplementariosLevel1/Piramide/src",
+        "EjerciciosComplementariosLevel1/Multiplicar/src",
+        "EjerciciosComplementariosLevel1/Level 1/src",
+        "EjerciciosComplementariosLevel1/Factorial/src",
+        "EjerciciosComplementariosLevel1/mayuscula/src"
+    ]
+}

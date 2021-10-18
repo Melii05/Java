@@ -1,0 +1,10 @@
+Java
+
+Al comenzar como minimo tiene una clase, que se suele llamar apps o mains y dentro va a tener un metodo que es el punto de entrada al programa.
+
+Los metodos tienen los modificadores de clases que definen si van a ser publicos, privados para que otras clases lo ocupen. Y definen si son estaticos, que no hace falta instanciar un objeto para ocuparlo, los que se llaman metodos o funciones de clases o pueden ser metodos de instancias que si necesitan crear un objeto con new.
+
+Toda funcion devuelve algo y sino lo queres que haga tenes que agregar void. Que devuelve null que es que no tiene valor.
+
+Si tiene return es una funcion y tiene que estar definido en el encabezado que tipo de objeto es ese return. Y en un metodo como no devuelve nada va estar void
+
